@@ -1,6 +1,3 @@
-README
-======
-
 Privacy-Utility Evaluation with Mondrian k-Anonymity on Adult Dataset
 ---------------------------------------------------------------------
 
