@@ -3,6 +3,14 @@
 This project studies the trade-off between privacy protection and machine learning utility using the Adult dataset.
 The experiment applies Mondrian k-anonymity to anonymize quasi-identifiers and then evaluates multiple machine learning models on both original and anonymized data.
 
+## Course Name: Data Privacy and Security (1142CS5164701)
+### Group Name: SecureBytes
+Member:
+1. Alim Misbullah D11415803	
+2. Laina Farsiah D11415802
+3. Stenly Ibrahim Adam D11215809
+4. Aurelio Naufal Effendy M11415802
+
 ## Features
 * Mondrian k-anonymity for numerical quasi-identifiers
 * Mixed-QI setting with:
