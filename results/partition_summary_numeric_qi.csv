@@ -1,0 +1,7 @@
+setting,k,num_partitions,min_partition_size,max_partition_size,avg_partition_size,min_equivalence_class_size,max_equivalence_class_size,avg_equivalence_class_size
+Numeric_QI,2,16177,2,3,2.0127959448599864,2,3,2.0127959448599864
+Numeric_QI,5,4096,7,8,7.949462890625,7,8,7.949462890625
+Numeric_QI,10,2048,15,16,15.89892578125,15,16,15.89892578125
+Numeric_QI,20,1024,31,32,31.7978515625,31,32,31.7978515625
+Numeric_QI,50,512,63,64,63.595703125,63,64,63.595703125
+Numeric_QI,100,256,127,128,127.19140625,127,128,127.19140625

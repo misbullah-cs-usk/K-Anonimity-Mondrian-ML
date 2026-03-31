@@ -1,0 +1,37 @@
+{
+  "data_path": "adult_dataset/adult.data",
+  "output_dir": "results",
+  "k_values": [
+    2,
+    5,
+    10,
+    20,
+    50,
+    100
+  ],
+  "seed": 42,
+  "cnn_epochs": 10,
+  "cnn_batch_size": 128,
+  "cnn_learning_rate": 0.001,
+  "numeric_qi": [
+    "age",
+    "fnlwgt",
+    "education-num",
+    "capital-gain",
+    "capital-loss",
+    "hours-per-week"
+  ],
+  "categorical_qi": [
+    "workclass",
+    "education",
+    "marital-status",
+    "occupation",
+    "relationship",
+    "race",
+    "sex",
+    "native-country"
+  ],
+  "sensitive_attribute": "income",
+  "cleaned_rows": 32561,
+  "device": "cpu"
+}
