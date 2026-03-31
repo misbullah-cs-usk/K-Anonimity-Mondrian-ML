@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 """
-adult_mondrian_privacy_ml.py
+mondrian_k_anonymity_implementation.py
 
 End-to-end experiment for:
 1. Mondrian k-anonymity on the UCI Adult dataset
