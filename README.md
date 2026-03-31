@@ -207,3 +207,16 @@ Reduce epochs:
 ```
 python adult_mondrian_privacy_ml.py --data_path adult.data --cnn_epochs 5
 ```
+
+## References
+[1] K. LeFevre, D. J. DeWitt, and R. Ramakrishnan, “Mondrian Multidimensional K-Anonymity,” in Proceedings of the IEEE International Conference on Data Engineering (ICDE), 2006.
+
+[2] H. Wimmer and L. Powell, “A Comparison of the Effects of K-Anonymity on Machine Learning Algorithms,” in Proceedings of the Conference for Information Systems Applied Research (CONISAR), vol. 2167, 2014.
+
+[3] J. Brownlee, “PyTorch Tutorial: Develop Deep Learning Models,” Machine Learning Mastery. [Online]. Available: https://machinelearningmastery.com/pytorch-tutorial-develop-deep-learning-models/
+
+[4] J. Brownlee, “Tutorial: First Neural Network with Keras,” Machine Learning Mastery. [Online]. Available: https://machinelearningmastery.com/tutorial-first-neural-network-python-keras/
+
+[5] DataDrivenInvestor, “Building Neural Network Using Keras for Classification,” Medium. [Online]. Available: https://medium.com/datadriveninvestor/building-neural-network-using-keras-for-classification-3a3656c726c1
+<img width="468" height="262" alt="image" src="https://github.com/user-attachments/assets/33fb92d6-fbc6-4276-854b-d27bf43bc57d" />
+
